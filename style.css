@@ -1,0 +1,49 @@
+@charset "utf-8" ;
+/*
+ul li:nth-child(2){
+    background: purple;
+}
+
+input[type="text"]{
+    background: red;
+}
+
+h1 {
+    border: 1px solid greenyellow;
+    cursor: pointer;
+}
+h1:hover{
+    background: red;
+} 
+h1::before {
+    content: "before content";
+    color: blue;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+
+p.text2{
+    background: orange;
+}
+
+h1 {
+    font-weight: 10;
+}
+
+html {
+    font-size: 5px;
+}
+
+article h1 {
+    font-size: 5rem;
+}
+
+article p {
+    font-family: 'Birthstone', cursive;
+    font-size: 5rem;
+}
+
+article a {
+    font-size: 5rem;
+}
+
